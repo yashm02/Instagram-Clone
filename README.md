@@ -4,14 +4,14 @@ Backend Code for Instagram Clone using HTML, TailwindCSS, Python, Django, Javasc
 
 Activities that a user can do in this clone:
 
-Register
-Login
-Logout
-Create post
-Delete Post
-Change-password
-Reset-password
-Like the post of other users
-See how many other users has liked your posts
-Comment on post
-See their profile and posts,etc.
+1. Register
+2. Login
+3. Logout
+4. Create post
+5. Delete Post
+6. Change-password
+7. Reset-password
+8. Like the post of other users
+9. See how many other users has liked your posts
+10. Comment on post
+11. See their profile and posts,etc.
