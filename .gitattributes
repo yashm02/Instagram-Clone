@@ -1,6 +1,6 @@
-*.html linguist-detectable=false
-*.py linguist-detectable=false
+# *.html linguist-detectable=false
+# *.py linguist-detectable=false
 *.html linguist-vendored
 *.py linguist-vendored
-*.js linguist-detectable=false
+# *.js linguist-detectable=false
 *.js linguist-vendored
